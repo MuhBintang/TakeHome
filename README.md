@@ -45,8 +45,9 @@ You may list what libraries you used in this project, example :
 https://drive.google.com/file/d/1F7s9W5soUBcw6XkwFPRM3V54yAsk4ar1/view?usp=sharing
 
 ## <a name="screenshot"></a> Screenshot :
-![SplashScreen](https://github.com/MuhBintang/TakeHome/assets/144430937/72400d8d-84a7-422f-bf27-5cc0e8050399)
-![Search](https://github.com/MuhBintang/TakeHome/assets/144430937/00d3523f-d329-48a7-b552-1d4aa47f6f18)
-![Home](https://github.com/MuhBintang/TakeHome/assets/144430937/9fa8c0f3-604d-48c0-9664-d6907f9eb710)
-![Favourite](https://github.com/MuhBintang/TakeHome/assets/144430937/d7416d9b-95f1-49c1-a94b-6b39c512723f)
-![Detail](https://github.com/MuhBintang/TakeHome/assets/144430937/634b6c45-f67a-43cc-a4ab-376caa924bf6)
+![SplashScreen](https://github.com/MuhBintang/TakeHome/assets/144430937/4cf868f4-68d3-4abb-8063-67918c74d5cd)
+![Search](https://github.com/MuhBintang/TakeHome/assets/144430937/e3f4ab7f-71e1-4924-b294-3ac09cb6da13)
+![Home](https://github.com/MuhBintang/TakeHome/assets/144430937/2b37798e-dbb4-468a-a4a5-693d4b2436f8)
+![Favourite](https://github.com/MuhBintang/TakeHome/assets/144430937/9ecd34ac-8ed9-4a90-b9b1-b9246c65e3c5)
+![Detail](https://github.com/MuhBintang/TakeHome/assets/144430937/521c8a18-337e-4fad-9065-47c9c9993730)
+
